@@ -1,0 +1,23 @@
+Git y Github
+
+BITÁCORA DE CONFIGURACIÓN, INSTALACIÓN Y UTILIZACIÓN
+El sistema operativo utilizado es Linux, para la instalación de Git se hace uso de los siguientes comandos:
+sudo apt-get update
+sudo apt-get upgrade
+Seguido a ello se instala Git con el siguiente comando
+apt-get install git
+Confirmación de la versión de Git
+git - -version
+Configuración de nombre de usuario y correo electrónico
+git config  - -global user.name
+git config - -global user.email
+Visualización de datos añadidos correctamente
+git config -list
+Configuración de cuenta de GitHub
+Ingresar a la página https://github.com
+Ingresar nombre de usuario, correo electrónico y contraseña
+Creación de un repositorio en GitHub
+Dirigir a tus repositorios, luego de ello elegir un nuevo repositorio
+Seleccionar crear nuevo y elegir nuevo repositorio
+Creación de nuevo repositorio
+
